@@ -60,7 +60,7 @@ The code for FBG is simple, lightweight, and non-obtrusive, which allows it to b
 	&lt;/div&gt;
 &lt;/div&gt;</pre>
 
-## Feedback
+## Feedback and overview
 Feedback, questions or thoughts about FBG? Email us and we will get back to you as soon as possible.
 
 ## Browser & Device Support
